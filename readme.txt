@@ -5,4 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 禁用fast forward
 协作开发
-在Dev 分支开发
